@@ -1,0 +1,17 @@
+epochs:
+  value: 100
+
+batch_size:
+  value: 16
+
+num_residual_blocks:
+  value: 3
+
+img_size:
+  value: 224
+
+in_channels:
+  value: 1
+
+lr:
+  value: 0.001
